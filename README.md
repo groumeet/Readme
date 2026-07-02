@@ -94,7 +94,6 @@ Groumeet is a great alternative to Omegle-style chat sites, random video chat ap
 <div align="center">
   <img src="https://www.groumeet.com/screenshot/desktop0.webp" width="31%" alt="Groumeet desktop homepage">
   <img src="https://www.groumeet.com/screenshot/desktop1.webp" width="31%" alt="Groumeet group chat room">
-  <img src="https://www.groumeet.com/screenshot/phone0.webp" width="18%" alt="Groumeet mobile chat interface">
 </div>
 <div align="center">
   <img src="https://www.groumeet.com/screenshot/phone0.webp" width="18%" alt="Groumeet mobile chat interface">
